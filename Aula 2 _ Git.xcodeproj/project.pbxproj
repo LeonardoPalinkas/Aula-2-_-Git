@@ -15,6 +15,7 @@
 		D464F4662270860700EB1A22 /* Aula_2___GitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D464F4652270860700EB1A22 /* Aula_2___GitTests.swift */; };
 		D464F4712270860700EB1A22 /* Aula_2___GitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D464F4702270860700EB1A22 /* Aula_2___GitUITests.swift */; };
 		D464F47F2270880D00EB1A22 /* Receitas.swift in Sources */ = {isa = PBXBuildFile; fileRef = D464F47E2270880D00EB1A22 /* Receitas.swift */; };
+		D464F48122708B1000EB1A22 /* Favoritos.swift in Sources */ = {isa = PBXBuildFile; fileRef = D464F48022708B1000EB1A22 /* Favoritos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D464F4702270860700EB1A22 /* Aula_2___GitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Aula_2___GitUITests.swift"; sourceTree = "<group>"; };
 		D464F4722270860700EB1A22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D464F47E2270880D00EB1A22 /* Receitas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Receitas.swift; sourceTree = "<group>"; };
+		D464F48022708B1000EB1A22 /* Favoritos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Favoritos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		D464F44F2270860600EB1A22 /* Aula 2 _ Git */ = {
 			isa = PBXGroup;
 			children = (
+				D464F48022708B1000EB1A22 /* Favoritos.swift */,
 				D464F4502270860600EB1A22 /* AppDelegate.swift */,
 				D464F4522270860600EB1A22 /* ViewController.swift */,
 				D464F4542270860600EB1A22 /* Main.storyboard */,
@@ -262,6 +265,7 @@
 				D464F4532270860600EB1A22 /* ViewController.swift in Sources */,
 				D464F4512270860600EB1A22 /* AppDelegate.swift in Sources */,
 				D464F47F2270880D00EB1A22 /* Receitas.swift in Sources */,
+				D464F48122708B1000EB1A22 /* Favoritos.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
